@@ -10,3 +10,7 @@ Catalog of my repositories that use [Matt Pocock's skills](https://github.com/ma
 - [shelly-data-extracts](https://github.com/JeremieLitzler/shelly-data-extracts)
 - [tenant-bills-app](https://github.com/JeremieLitzler/tenant-bills-app)
 - [transcript-cleaner-webapp](https://github.com/JeremieLitzler/transcript-cleaner-webapp)
+
+## Retros
+
+Retrospectives on how the agent environment (steering files, skills, hooks) performed in these repos, one file per retro: [retros/](retros/).
